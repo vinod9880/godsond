@@ -2,3 +2,6 @@ Git
 Jenkins
 Docker
 Ansible
+Terrafarm
+Bit bucket
+Maven
