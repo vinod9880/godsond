@@ -7,3 +7,5 @@ Bit bucket
 Maven
 Java
 Python
+scm
+cloud
